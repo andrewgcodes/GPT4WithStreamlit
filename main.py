@@ -57,6 +57,7 @@ def magic():
             model="gpt-4-0314",
             messages=st.session_state.messages,
             temperature=0,
+            max_tokens = 250
         )
         
         # Add assistant response to messages dictionary
