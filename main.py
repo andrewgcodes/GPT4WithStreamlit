@@ -17,7 +17,7 @@ st.title("GPT4 Streamlit Template")
 # Display a markdown message
 st.markdown(
     "Made by [@itsandrewgao](https://twitter.com/itsandrewgao).")
-
+st.markdown("[Source code](https://github.com/andrewgcodes/GPT4WithStreamlit)")
 # Display a separator line
 st.write("--------------------")
 
