@@ -1,5 +1,5 @@
 # Streamlit Template for GPT4 chat interface
-
+Live demo: https://gpt4streamlit.olafblitz.repl.co/
 ## Modified MIT License
 
 Copyright (c) 2023 Andrew Kean Gao
