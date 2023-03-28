@@ -1,5 +1,9 @@
 # Streamlit Template for GPT4 chat interface
 Live demo: https://gpt4streamlit.olafblitz.repl.co/
+
+GPT4 API documentation: https://platform.openai.com/docs/guides/chat/introduction
+
+Streamlit information: https://streamlit.io/
 ## Modified MIT License
 
 Copyright (c) 2023 Andrew Kean Gao
