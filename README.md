@@ -4,6 +4,15 @@ Live demo: https://gpt4streamlit.olafblitz.repl.co/
 GPT4 API documentation: https://platform.openai.com/docs/guides/chat/introduction
 
 Streamlit information: https://streamlit.io/
+
+Fork the REPL here: https://replit.com/@olafblitz/gpt4streamlit?v=1
+
+In Shell, type pip install streamlit
+
+In secrets, enter your openai api key with name OPENAI_API_KEY
+
+Hit the green Run button.
+
 ## Modified MIT License
 
 Copyright (c) 2023 Andrew Kean Gao
